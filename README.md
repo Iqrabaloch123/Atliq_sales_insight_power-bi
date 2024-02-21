@@ -2,7 +2,12 @@
 
 This is a project I replicated from Codebasics PowerBi Youtube playlist. You can find the link of the playlist below.
 https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9
+
+
+
 https://www.novypro.com/project/atliq-sales-insights-7
+
+
 
 **Problem Statement:**
 The sales director at AtliQ Hardware, a company operating in computer hardware and peripherals across India, is encountering challenges in accurately assessing the business performance and identifying existing problems. Sales have been below expectations and are gradually declining. When the director seeks updates from regional managers regarding sales and market conditions, they tend to withhold or sugarcoat information, inundating the director with Excel files instead of providing transparent insights.
@@ -26,6 +31,11 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 
 **Final Result**
 ![tt](https://github.com/Iqrabaloch123/Atliq_sales_insight_power-bi/assets/130351579/2aa5699f-41a5-4696-a60b-43c97ba5c799)
+
+
+
+
+
 
 **Interactive dashboard**
 ![2_21_2024, 6_41_20 PM - Screen - Untitled video](https://github.com/Iqrabaloch123/Atliq_sales_insight_power-bi/assets/130351579/d434f654-e993-4bb4-946b-2d62094e03eb)
