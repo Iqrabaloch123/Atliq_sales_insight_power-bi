@@ -38,6 +38,13 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 
 
 **Interactive dashboard**
+
+
+
+
+
+
+
 ![2_21_2024, 6_41_20 PM - Screen - Untitled video](https://github.com/Iqrabaloch123/Atliq_sales_insight_power-bi/assets/130351579/d434f654-e993-4bb4-946b-2d62094e03eb)
 
 
